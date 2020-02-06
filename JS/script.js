@@ -5,3 +5,5 @@ function makeGreen() {
     p.style.color = '#BADA55';
     p.style.fontSize = '50px';
 }
+
+console.log("hello");
